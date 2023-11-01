@@ -1,4 +1,4 @@
-# DemoGiocoFILERAR
+# DemoGiocoFile.EXE
 THE UNFORGOTTEN
 
 Per giocare scaricare da github il file in formato .zip
